@@ -1,10 +1,8 @@
-<h1>Nodejs Basic<h1>
-
+<h1>Nodejs Basic</h1>
 <p>
 Ini merupakan pembelajaran dasar saya dari Dicoding Indoesia terkait Node.js, dan javascript
-<p>
 
-<p>
+
 Beberapa hal yang saya pelajari adalah 
 1. Fundamental JavaScript yang berisi tentang Comments, variable, tipe data, operator, if/else stetment,
 switch case statement, dan juga Loop
@@ -26,5 +24,4 @@ overriding, Object Composition, Built-in Class
 8. Node Package Manager
 
 9. JavaScript Testing
-
-<p>
+</p>
